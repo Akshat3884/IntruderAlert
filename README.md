@@ -15,19 +15,6 @@ This project uses HogDescripter in opencv python to find no. of person present i
 * python preinstalled
 * a webcam
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
 ## Help
 
 Webcam not opening??
